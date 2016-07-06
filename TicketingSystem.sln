@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Models", "TicketingSystem.Models\TicketingSystem.Models.csproj", "{BE0D4EFC-CA49-40E1-BFB6-310779782420}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Web", "TicketingSystem.Web\TicketingSystem.Web.csproj", "{9F8D3092-BB86-45BC-A6CD-64FFDBF84C9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketingSystem.Data", "TicketingSystem.Data\TicketingSystem.Data.csproj", "{A84F4A08-1AA5-4F1D-B00B-CADAD44C40D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketindSystem.Common", "TicketindSystem.Common\TicketindSystem.Common.csproj", "{1FA4B0B7-9048-46B4-8086-19535AC989CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE0D4EFC-CA49-40E1-BFB6-310779782420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0D4EFC-CA49-40E1-BFB6-310779782420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0D4EFC-CA49-40E1-BFB6-310779782420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0D4EFC-CA49-40E1-BFB6-310779782420}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8D3092-BB86-45BC-A6CD-64FFDBF84C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8D3092-BB86-45BC-A6CD-64FFDBF84C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8D3092-BB86-45BC-A6CD-64FFDBF84C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8D3092-BB86-45BC-A6CD-64FFDBF84C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A84F4A08-1AA5-4F1D-B00B-CADAD44C40D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A84F4A08-1AA5-4F1D-B00B-CADAD44C40D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A84F4A08-1AA5-4F1D-B00B-CADAD44C40D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A84F4A08-1AA5-4F1D-B00B-CADAD44C40D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FA4B0B7-9048-46B4-8086-19535AC989CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA4B0B7-9048-46B4-8086-19535AC989CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA4B0B7-9048-46B4-8086-19535AC989CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA4B0B7-9048-46B4-8086-19535AC989CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
